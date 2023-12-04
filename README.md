@@ -1,6 +1,8 @@
 # DekkCore - Project Zereth (2022-2023)
-A World of Warcraft Dragonflight emulator. (Always on latest patch.)
+A World of Warcraft Dragonflight emulator. (10.1.XXXX.)
 
+Download LINK:
+https://drive.google.com/file/d/1nQ7p5RqSWFd3TBQtojXeAqvOHqKzxXu1/view?usp=sharing
 --------------
 
 *Note:
