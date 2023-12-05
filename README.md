@@ -3,6 +3,10 @@ A World of Warcraft Dragonflight emulator. (10.1.XXXX.)
 
 Download LINK:
 https://drive.google.com/file/d/1nQ7p5RqSWFd3TBQtojXeAqvOHqKzxXu1/view?usp=sharing
+
+
+
+Dragonriding and many Spellscripts (incl. Evoker) are included!
 --------------
 
 *Note:
